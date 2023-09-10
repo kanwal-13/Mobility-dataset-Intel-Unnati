@@ -13,12 +13,11 @@ For each month and each speed range, the alerts generated in each category are s
 
 <img src="https://github.com/kanwal-13/Mobility-dataset-Intel-Unnati/blob/25586c4a0d3cbe5b6eefeb205380fbcd49dd1fbf/results/top15%20red%20alert%20areas.jpg" alt="Top 15 High-Alert Regions" width="1200" height="350">
 
-complete data can be seen in [location.csv](Location.csv)
+complete data can be seen in [location.csv](location.csv)
 
 ## High-Alert Zones 
-
-(The complete heat maps with zoom option can be downloaded from the heatmap folder and opened in browser to view precise locations on the map) [heatmap folder](heatmaps/)
-For the whole duration of 3 months and all vehicles: <br>
+(The complete heat maps with zoom option can be downloaded from the heatmap folder and opened in browser to view precise locations on the map in [heatmap folder](heatmaps/))<br>
+<br>For the whole duration of 3 months and all vehicles:
 <br><img src="https://github.com/kanwal-13/Mobility-dataset-Intel-Unnati/blob/0fe84572b5b6063b206d268a779d28a05fdf6443/results/total%20alerts%20-%20red%20zones.jpg" alt="red zones" width= 700 height= 500>
 <br> <br>Top 2 zones are:<br><br>
 <img src="https://github.com/kanwal-13/Mobility-dataset-Intel-Unnati/blob/0fe84572b5b6063b206d268a779d28a05fdf6443/results/top%202%20red%20zones%20.jpg" alt="top zones" width="700" height="500">
