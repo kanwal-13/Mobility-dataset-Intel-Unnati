@@ -4,4 +4,4 @@ Data Analysis on Mobility Dataset for the Purpose of Intel Unnati Grand Challeng
 ## High-Alert Zones
 For the whole duration of 3 months and all vehicles: 
 
-![total red alert zones](D:\intel results\Mobility-dataset-Intel-Unnati\results\total alerts - red zones.jpg)
+![red zones](total%20alerts%20-%20red%20%20zones.jpg)
